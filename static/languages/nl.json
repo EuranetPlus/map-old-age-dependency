@@ -1,12 +1,12 @@
 {
-  "heading": "Afhankelijkheidsratio: Wat is de economische druk op de beroepsbevolking?",
-  "subheading": "In 2023 bedroeg de verhouding tussen het aantal inactieve ouderen en het aantal mensen in de werkende leeftijd 33,4%, een stijging van 2% vergeleken met 2019.",
+  "heading": "Afhankelijkheidsratio: Hoe groot is de economische druk op de beroepsbevolking?",
+  "subheading": "In 2023 bedroeg de verhouding tussen het aantal inactieve ouderen en het aantal mensen in de werkende leeftijd 33,4%, een stijging van 2% ten opzichte van 2019.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "Afhankelijkheidsratio van ouderen",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "De afhankelijkheidsratio van ouderen is de verhouding tussen het aantal afhankelijke ouderen (65-plussers, die over het algemeen beroepsinactief zijn) en het aantal mensen in de werkende leeftijd (tussen 15 en 64 jaar). Een hoge afhankelijkheidsratio betekent dat mensen in de werkende leeftijd, en de economie als geheel, een zwaardere last moeten dragen om de afhankelijke bevolking te ondersteunen.",
+  "textNote": "De afhankelijkheidsratio van ouderen is de verhouding tussen het aantal afhankelijke ouderen (65-plussers, die doorgaans niet werken) en het aantal mensen in de werkzame leeftijd (tussen 15 en 64 jaar). Een hoge afhankelijkheidsratio betekent dat mensen in de werkzame leeftijd, en de economie als geheel, een zwaardere last moeten dragen om de afhankelijke bevolking te onderhouden.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Klik voor meer informatie"

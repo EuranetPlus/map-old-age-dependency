@@ -1,12 +1,12 @@
 {
-  "heading": "Rácio de dependência: Qual é a pressão económica sobre a população activa?",
-  "subheading": "Em 2023, o rácio entre o número de idosos inactivos e o número de pessoas em idade activa era de 33,4%, um aumento de 2% face a 2019.",
-  "legend1": "Não há dados disponíveis",
-  "tooltip1": "Taxa de dependência de idosos",
+  "heading": "Razão de dependência: Qual é a pressão econômica sobre a população trabalhadora?",
+  "subheading": "Em 2023, a proporção entre o número de idosos inativos e o número de pessoas em idade ativa era de 33,4%, um aumento de 2% em comparação com 2019.",
+  "legend1": "Nenhum dado disponível",
+  "tooltip1": "Taxa de dependência da velhice",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O rácio de dependência dos idosos é o rácio entre o número de idosos dependentes (com 65 ou mais anos, geralmente inativos profissionalmente) e o número de pessoas em idade ativa (com idades compreendidas entre os 15 e os 64 anos). Um elevado rácio de dependência significa que as pessoas em idade ativa, e a economia como um todo, têm de suportar um fardo mais pesado para apoiar a população dependente.",
+  "textNote": "O índice de dependência dos idosos é a razão entre o número de idosos dependentes (pessoas com 65 anos ou mais, geralmente inativas profissionalmente) e o número de pessoas em idade ativa (entre 15 e 64 anos). Um índice de dependência alto significa que as pessoas em idade ativa, e a economia como um todo, têm que suportar um fardo mais pesado para sustentar a população dependente.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Clique para mais informações"

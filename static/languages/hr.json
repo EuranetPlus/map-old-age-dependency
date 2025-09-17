@@ -1,13 +1,13 @@
 {
-  "heading": "Omjer ovisnosti: Koliki je ekonomski pritisak na radno stanovništvo?",
-  "subheading": "Do 2023. omjer broja neaktivnih starijih i broja radno sposobnih iznosio je 33,4%, što je povećanje od 2% u odnosu na 2019. godinu.",
+  "heading": "Omjer ovisnosti: Koliki je ekonomski pritisak na radno sposobno stanovništvo?",
+  "subheading": "Do 2023. godine omjer broja neaktivnih starijih osoba i broja radno sposobnih osoba iznosio je 33,4%, što je povećanje od 2% u usporedbi s 2019. godinom.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "Omjer ovisnosti u starijoj dobi",
+  "tooltip1": "Omjer ovisnosti starijih osoba",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Koeficijent starosne ovisnosti omjer je broja uzdržavanih starijih osoba (65 i više godina, koje su u pravilu profesionalno neaktivne) i broja radno sposobnih osoba (između 15 i 64 godine). Visok omjer ovisnosti znači da ljudi u radnoj dobi i gospodarstvo u cjelini moraju snositi veći teret za uzdržavanje ovisnog stanovništva.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Stopa ovisnosti starijih osoba je omjer između broja ovisnih starijih osoba (65 i više godina, koje su općenito profesionalno neaktivne) i broja osoba u radnoj dobi (između 15 i 64 godine). Visoka stopa ovisnosti znači da osobe u radnoj dobi, i gospodarstvo u cjelini, moraju snositi veći teret kako bi uzdržavale ovisno stanovništvo.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Kliknite za više informacija"
 }

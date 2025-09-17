@@ -1,13 +1,13 @@
 {
-  "heading": "Forsørgerforhold: Hvad er det økonomiske pres på den arbejdende befolkning?",
-  "subheading": "I 2023 var forholdet mellem antallet af inaktive ældre og antallet af personer i den arbejdsdygtige alder 33,4 %, en stigning på 2 % i forhold til 2019.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "Alderdomsforhold",
+  "heading": "Forsørgelsesgrad: Hvad er det økonomiske pres på den arbejdende befolkning?",
+  "subheading": "I 2023 var forholdet mellem antallet af inaktive ældre og antallet af personer i den erhvervsaktive alder 33,4 %, en stigning på 2 % sammenlignet med 2019.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "Ældreforsørgelseskvoten",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Forsørgerbyrden er forholdet mellem antallet af forsørgede ældre (65 og derover, som generelt er erhvervsmæssigt inaktive) og antallet af personer i den erhvervsaktive alder (i alderen mellem 15 og 64). En høj forsørgerbyrde betyder, at mennesker i den arbejdsdygtige alder og økonomien som helhed skal bære en tungere byrde for at forsørge den afhængige befolkning.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Ældreforsørgelseskvoten er forholdet mellem antallet af forsørgede ældre (65 år og derover, som generelt er erhvervsmæssigt inaktive) og antallet af personer i den erhvervsaktive alder (mellem 15 og 64 år). En høj forsørgelseskvot betyder, at personer i den erhvervsaktive alder og økonomien som helhed skal bære en tungere byrde for at forsørge den forsørgede befolkning.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=da&category=t_demo.t_demo_ind",
+  "textCountryClick": "Klik for mere information"
 }

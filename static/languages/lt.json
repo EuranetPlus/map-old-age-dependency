@@ -1,13 +1,13 @@
 {
-  "heading": "Išlaikomų asmenų santykis: koks ekonominis spaudimas dirbantiems gyventojams?",
-  "subheading": "Iki 2023 metų neaktyvių senyvo amžiaus žmonių skaičiaus santykis su darbingo amžiaus žmonių skaičiumi buvo 33,4 proc., palyginti su 2019 m., padidėjo 2 proc.",
+  "heading": "Priklausomybės santykis: koks yra ekonominis spaudimas dirbantiems gyventojams?",
+  "subheading": "Iki 2023 m. neaktyvių pagyvenusių žmonių ir darbingo amžiaus žmonių skaičiaus santykis siekė 33,4 %, tai yra 2 % daugiau nei 2019 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Senatvės priklausomybės santykis",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Senatvės priklausomybės koeficientas – tai santykis tarp išlaikomų pagyvenusių žmonių (65 metų ir vyresni, kurie paprastai yra neaktyvūs) ir darbingo amžiaus žmonių (nuo 15 iki 64 metų amžiaus). Didelis priklausomybės santykis reiškia, kad darbingo amžiaus žmonės ir visa ekonomika turi prisiimti didesnę naštą, kad išlaikytų išlaikomus gyventojus.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Senatvės priklausomybės santykis yra išlaikomų pagyvenusių žmonių (65 metų ir vyresnių, kurie paprastai yra neaktyvūs profesionaliai) skaičiaus ir darbingo amžiaus žmonių (15–64 metų amžiaus) skaičiaus santykis. Didelis priklausomybės santykis reiškia, kad darbingo amžiaus žmonės ir visa ekonomika turi prisiimti didesnę naštą, kad išlaikytų išlaikomus gyventojus.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Taux de dépendance : quelle est la pression économique sur la population active ?",
-  "subheading": "En 2023, le ratio du nombre de personnes âgées inactives par rapport au nombre de personnes en âge de travailler était de 33,4 %, soit une augmentation de 2 % par rapport à 2019.",
-  "legend1": "Pas de données disponibles",
+  "subheading": "En 2023, le ratio entre le nombre de personnes âgées inactives et le nombre de personnes en âge de travailler était de 33,4 %, soit une augmentation de 2 % par rapport à 2019.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "Taux de dépendance des personnes âgées",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Le taux de dépendance des personnes âgées est le rapport entre le nombre de personnes âgées dépendantes (les 65 ans et plus, généralement professionnellement inactives) et le nombre de personnes en âge de travailler (âgées entre 15 et 64 ans). Un taux de dépendance élevé signifie que les personnes en âge de travailler, et l’économie dans son ensemble, doivent supporter une charge plus lourde pour subvenir aux besoins de la population dépendante.",
+  "textNote": "Le taux de dépendance des personnes âgées est le rapport entre le nombre de personnes âgées dépendantes (65 ans et plus, généralement inactives) et le nombre de personnes en âge de travailler (15 à 64 ans). Un taux de dépendance élevé signifie que les personnes en âge de travailler, et l'économie dans son ensemble, doivent supporter une charge plus lourde pour subvenir aux besoins de la population dépendante.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=fr&category=t_demo.t_demo_ind",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

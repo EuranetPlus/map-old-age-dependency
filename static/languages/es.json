@@ -1,13 +1,13 @@
 {
-  "heading": "Tasa de dependencia: ¿Cuál es la presión económica sobre la población activa?",
-  "subheading": "En 2023, la proporción entre el número de personas mayores inactivas y el número de personas en edad de trabajar fue del 33,4%, un aumento del 2% en comparación con 2019.",
-  "legend1": "Datos no disponibles",
+  "heading": "Tasa de dependencia: ¿Cuál es la presión económica sobre la población trabajadora?",
+  "subheading": "En 2023, la relación entre el número de personas mayores inactivas y el número de personas en edad de trabajar fue del 33,4%, un aumento del 2% en comparación con 2019.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "Tasa de dependencia de la vejez",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "La tasa de dependencia de las personas mayores es la relación entre el número de personas mayores dependientes (de 65 años y más, que generalmente están inactivas profesionalmente) y el número de personas en edad de trabajar (entre 15 y 64 años). Una tasa de dependencia elevada significa que las personas en edad de trabajar, y la economía en su conjunto, tienen que soportar una carga más pesada para sustentar a la población dependiente.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "textNote": "La tasa de dependencia de la vejez es la relación entre el número de personas mayores dependientes (mayores de 65 años, generalmente inactivas) y el número de personas en edad laboral (entre 15 y 64 años). Una tasa de dependencia elevada implica que las personas en edad laboral, y la economía en su conjunto, deben soportar una mayor carga para mantener a la población dependiente.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=es&category=t_demo.t_demo_ind",
   "textCountryClick": "Haga clic para más información"
 }

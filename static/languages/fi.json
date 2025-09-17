@@ -1,13 +1,13 @@
 {
-  "heading": "Huoltosuhde: Mikä on työssäkäyvän väestön taloudellinen paine?",
-  "subheading": "Vuoteen 2023 mennessä työvoiman ulkopuolella olevien ikääntyneiden määrän suhde työikäisiin oli 33,4 %, kasvua 2 % vuoteen 2019 verrattuna.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "Vanhuushuoltosuhde",
+  "heading": "Huoltosuhde: Mikä on työväestöön kohdistuva taloudellinen paine?",
+  "subheading": "Vuoteen 2023 mennessä työvoiman ulkopuolella olevien ikääntyneiden määrän suhde työikäisten määrään oli 33,4 %, mikä on 2 % enemmän kuin vuonna 2019.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "Vanhushuoltosuhde",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Vanhuushuoltosuhde on huollettavana olevien vanhusten (65-vuotiaat ja sitä vanhemmat, jotka ovat pääsääntöisesti työelämän ulkopuolella) ja työikäisten (15–64-vuotiaiden) lukumäärän välinen suhde. Korkea huoltosuhde tarkoittaa, että työikäisten ihmisten ja koko talouden on kannettava suurempi taakka huollettavan väestön elättämiseksi.",
+  "textNote": "Vanhushuoltosuhde on huollettavien ikääntyneiden (65-vuotiaat ja sitä vanhemmat, jotka ovat yleensä työelämän ulkopuolella) lukumäärän suhde työikäisten (15–64-vuotiaat) lukumäärään. Korkea huoltosuhde tarkoittaa, että työikäisten ja koko talouden on kannettava suurempi taakka huollettavan väestön elättämiseksi.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

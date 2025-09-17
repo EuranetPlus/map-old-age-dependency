@@ -1,12 +1,12 @@
 {
-  "heading": "Ülalpeetavate suhe: milline on majanduslik surve töötavale elanikkonnale?",
-  "subheading": "2023. aastaks oli mitteaktiivsete eakate ja tööealiste inimeste arvu suhe 33,4%, mis on 2019. aastaga võrreldes 2%.",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "Vanaduse ülalpeetav suhe",
+  "heading": "Ülalpeetavate määr: Milline on majanduslik surve töötavale elanikkonnale?",
+  "subheading": "2023. aastaks oli mitteaktiivsete eakate ja tööealiste inimeste arvu suhe 33,4%, mis on 2% rohkem kui 2019. aastal.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "Vanadussõltuvussuhe",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Vanadussõltuvuskordaja on ülalpeetavate eakate (65-aastased ja vanemad, kes on üldiselt tööalaselt mitteaktiivsed) ja tööealiste inimeste (vanuses 15–64) arvu suhe. Kõrge ülalpeetavate suhe tähendab, et tööealised inimesed ja kogu majandus peavad ülalpeetava elanikkonna ülalpidamiseks kandma suuremat koormust.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Vanadussuhe on ülalpeetavate eakate (65-aastased ja vanemad, kes on üldiselt tööalaselt mitteaktiivsed) arvu ja tööealiste inimeste (15–64-aastased) arvu suhe. Kõrge ülalpeetavate suhtarv tähendab, et tööealised inimesed ja majandus tervikuna peavad ülalpeetava elanikkonna ülalpidamiseks kandma suuremat koormust.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

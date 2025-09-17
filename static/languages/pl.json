@@ -1,13 +1,13 @@
 {
-  "heading": "Współczynnik obciążenia: Jaka jest presja ekonomiczna na ludność pracującą?",
-  "subheading": "Do 2023 r. stosunek liczby osób starszych nieaktywnych zawodowo do liczby osób w wieku produkcyjnym wyniósł 33,4%, co oznacza wzrost o 2% w porównaniu z rokiem 2019.",
+  "heading": "Współczynnik obciążenia demograficznego: Jak duża jest presja ekonomiczna na ludność pracującą?",
+  "subheading": "Do 2023 r. stosunek liczby nieaktywnych zawodowo osób starszych do liczby osób w wieku produkcyjnym wynosił 33,4%, co oznacza wzrost o 2% w porównaniu z rokiem 2019.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "Współczynnik obciążenia emerytalnego",
+  "tooltip1": "Współczynnik obciążenia demograficznego",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Współczynnik obciążenia emerytalnego to stosunek liczby osób starszych niesamodzielnych (osób w wieku 65 lat i więcej, które z reguły są nieaktywne zawodowo) do liczby osób w wieku produkcyjnym (w wieku od 15 do 64 lat). Wysoki współczynnik obciążenia oznacza, że osoby w wieku produkcyjnym, a także cała gospodarka, muszą ponosić większy ciężar utrzymania ludności zależnej.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Współczynnik obciążenia demograficznego to stosunek liczby osób starszych pozostających na utrzymaniu (osób w wieku 65 lat i starszych, które zazwyczaj są nieaktywne zawodowo) do liczby osób w wieku produkcyjnym (w wieku od 15 do 64 lat). Wysoki współczynnik obciążenia demograficznego oznacza, że osoby w wieku produkcyjnym, a także cała gospodarka, muszą ponosić większe obciążenia związane z utrzymaniem osób pozostających na utrzymaniu.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

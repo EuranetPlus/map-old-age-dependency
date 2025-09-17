@@ -1,13 +1,13 @@
 {
   "heading": "Raportul de dependență: Care este presiunea economică asupra populației active?",
-  "subheading": "Până în 2023, raportul dintre numărul de vârstnici inactivi și numărul de persoane în vârstă de muncă era de 33,4%, în creștere cu 2% față de 2019.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "Rata de dependență pentru bătrânețe",
+  "subheading": "Până în 2023, raportul dintre numărul de vârstnici inactivi și numărul de persoane apte de muncă era de 33,4%, o creștere de 2% față de 2019.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "Raportul de dependență a persoanelor în vârstă",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Rata de dependență pentru bătrânețe este raportul dintre numărul persoanelor vârstnice dependente (cei de 65 de ani și peste, care sunt în general inactivi profesional) și numărul de persoane în vârstă de muncă (cu vârste cuprinse între 15 și 64 de ani). Un raport ridicat de dependență înseamnă că persoanele în vârstă de muncă și economia în ansamblu trebuie să suporte o povară mai grea pentru a susține populația dependentă.",
+  "textNoteDescription": "Nota",
+  "textNote": "Raportul de dependență a persoanelor în vârstă este raportul dintre numărul de persoane în vârstă dependente (persoanele de 65 de ani și peste, care sunt în general inactive din punct de vedere profesional) și numărul de persoane în vârstă de muncă (cu vârste cuprinse între 15 și 64 de ani). Un raport de dependență ridicat înseamnă că persoanele în vârstă de muncă și economia în ansamblu trebuie să suporte o povară mai mare pentru a susține populația dependentă.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

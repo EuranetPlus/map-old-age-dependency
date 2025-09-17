@@ -1,13 +1,13 @@
 {
-  "heading": "Cóimheas spleáchais: Cad é an brú eacnamaíoch ar an daonra oibre?",
+  "heading": "Cóimheas spleáchais: Cad é an brú eacnamaíoch atá ar an daonra oibre?",
   "subheading": "Faoi 2023, ba é 33.4% an cóimheas idir líon na ndaoine scothaosta neamhghníomhacha agus líon na ndaoine in aois oibre, méadú 2% i gcomparáid le 2019.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "Cóimheas spleáchais seanaoise",
+  "tooltip1": "Cóimheas cleithiúnais seanaoise",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Is é an cóimheas cleithiúnais seanaoise an cóimheas idir líon na ndaoine scothaosta cleithiúnacha (65 agus níos sine, atá neamhghníomhach go gairmiúil go ginearálta) agus líon na ndaoine in aois oibre (idir 15 agus 64 bliana d’aois). Ciallaíonn cóimheas ard spleáchais go gcaithfidh daoine in aois oibre, agus an geilleagar ina iomláine, ualach níos troime a iompar chun tacú leis an daonra cleithiúnach.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Is é an cóimheas cleithiúnais seanaoise an cóimheas idir líon na ndaoine scothaosta cleithiúnacha (na daoine 65 bliain d'aois agus os a chionn, a bhíonn neamhghníomhach go gairmiúil de ghnáth) agus líon na ndaoine in aois oibre (idir 15 agus 64 bliain d'aois). Ciallaíonn cóimheas cleithiúnais ard go gcaithfidh daoine in aois oibre, agus an geilleagar ina iomláine, ualach níos troime a iompar chun tacú leis an daonra cleithiúnach.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
