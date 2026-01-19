@@ -1,6 +1,6 @@
 {
   "heading": "Eltartottsági ráta: Mekkora a gazdasági nyomás a munkaképes lakosságra?",
-  "subheading": "2023-ra az inaktív idősek számának a munkaképes korú népességhez viszonyított aránya 33,4% volt, ami 2%-os növekedést jelent 2019-hez képest.",
+  "subheading": "2024-re az inaktív idősek és a munkaképes korúak aránya 33,9% volt, ami 7,96%-os növekedést jelent 2019-hez képest.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "Időskori függőségi ráta",
   "textSourceDescription": "Forrás",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Jegyzet",
   "textNote": "Az időskori függőségi ráta az eltartott idősek (65 évesek és idősebbek, akik általában szakmailag inaktívak) és a munkaképes korúak (15 és 64 év közöttiek) számának aránya. A magas függőségi ráta azt jelenti, hogy a munkaképes korúaknak és a gazdaság egészének nagyobb terhet kell viselnie az eltartott népesség eltartása érdekében.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"
 }

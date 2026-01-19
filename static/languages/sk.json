@@ -1,6 +1,6 @@
 {
   "heading": "Miera závislosti: Aký je ekonomický tlak na pracujúce obyvateľstvo?",
-  "subheading": "Do roku 2023 bol pomer počtu neaktívnych starších ľudí k počtu ľudí v produktívnom veku 33,4 %, čo predstavuje nárast o 2 % v porovnaní s rokom 2019.",
+  "subheading": "Do roku 2024 bol pomer počtu neaktívnych starších ľudí k počtu ľudí v produktívnom veku 33,9 %, čo predstavuje nárast o 7,96 % v porovnaní s rokom 2019.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "Pomer závislosti starých ľudí",
   "textSourceDescription": "Zdroj",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Pomer závislosti starých ľudí je pomer medzi počtom závislých starších ľudí (vo veku 65 a viac rokov, ktorí sú vo všeobecnosti profesionálne neaktívni) a počtom ľudí v produktívnom veku (vo veku 15 až 64 rokov). Vysoký pomer závislosti znamená, že ľudia v produktívnom veku a ekonomika ako celok musia znášať väčšiu záťaž na podporu závislého obyvateľstva.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

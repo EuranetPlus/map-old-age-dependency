@@ -1,6 +1,6 @@
 {
   "heading": "Dependency ratio: What is the economic pressure on the working population?",
-  "subheading": "By 2023, the ratio of the number of inactive elderly to the number of working-age people was 33.4%, an increase of 2% compared with 2019.",
+  "subheading": "By 2024, the ratio of the number of inactive elderly to the number of working-age people was 33.9%, an increase of 7.96% compared with 2019.",
   "legend1": "No data available",
   "tooltip1": "Old-age dependency ratio",
   "textSourceDescription": "Source",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "The old-age dependency ratio is the ratio between the number of dependent elderly people (the 65 and over, who are generally professionally inactive) and the number of people of working age (aged between 15 and 64). A high dependency ratio means that people of working age, and the economy as a whole, have to bear a heavier burden to support the dependent population.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Click for more info"
 }

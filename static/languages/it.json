@@ -1,6 +1,6 @@
 {
   "heading": "Indice di dipendenza: qual è la pressione economica sulla popolazione attiva?",
-  "subheading": "Entro il 2023, il rapporto tra il numero di anziani inattivi e il numero di persone in età lavorativa era del 33,4%, con un aumento del 2% rispetto al 2019.",
+  "subheading": "Entro il 2024, il rapporto tra il numero di anziani inattivi e il numero di persone in età lavorativa era del 33,9%, con un aumento del 7,96% rispetto al 2019.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "rapporto di dipendenza degli anziani",
   "textSourceDescription": "Fonte",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "L'indice di dipendenza degli anziani è il rapporto tra il numero di anziani non autosufficienti (65 anni e oltre, generalmente inattivi professionalmente) e il numero di persone in età lavorativa (tra i 15 e i 64 anni). Un indice di dipendenza elevato implica che le persone in età lavorativa, e l'economia nel suo complesso, debbano sostenere un onere maggiore per sostenere la popolazione non autosufficiente.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Taux de dépendance : quelle est la pression économique sur la population active ?",
-  "subheading": "En 2023, le ratio entre le nombre de personnes âgées inactives et le nombre de personnes en âge de travailler était de 33,4 %, soit une augmentation de 2 % par rapport à 2019.",
+  "heading": "Taux de dépendance : Quelle est la pression économique qui pèse sur la population active ?",
+  "subheading": "En 2024, le ratio du nombre de personnes âgées inactives par rapport au nombre de personnes en âge de travailler était de 33,9 %, soit une augmentation de 7,96 % par rapport à 2019.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "Taux de dépendance des personnes âgées",
+  "tooltip1": "ratio de dépendance des personnes âgées",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Le taux de dépendance des personnes âgées est le rapport entre le nombre de personnes âgées dépendantes (65 ans et plus, généralement inactives) et le nombre de personnes en âge de travailler (15 à 64 ans). Un taux de dépendance élevé signifie que les personnes en âge de travailler, et l'économie dans son ensemble, doivent supporter une charge plus lourde pour subvenir aux besoins de la population dépendante.",
+  "textNote": "Le taux de dépendance des personnes âgées est le rapport entre le nombre de personnes âgées dépendantes (65 ans et plus, généralement inactives professionnellement) et le nombre de personnes en âge de travailler (15 à 64 ans). Un taux de dépendance élevé signifie que les personnes en âge de travailler, et l'économie dans son ensemble, doivent supporter une charge plus importante pour subvenir aux besoins de la population dépendante.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=fr&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

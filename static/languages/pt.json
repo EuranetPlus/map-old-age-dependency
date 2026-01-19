@@ -1,13 +1,13 @@
 {
-  "heading": "Razão de dependência: Qual é a pressão econômica sobre a população trabalhadora?",
-  "subheading": "Em 2023, a proporção entre o número de idosos inativos e o número de pessoas em idade ativa era de 33,4%, um aumento de 2% em comparação com 2019.",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "Taxa de dependência da velhice",
+  "heading": "Índice de dependência: Qual é a pressão econômica sobre a população economicamente ativa?",
+  "subheading": "Em 2024, a proporção de idosos inativos em relação ao número de pessoas em idade ativa era de 33,9%, um aumento de 7,96% em comparação com 2019.",
+  "legend1": "Não há dados disponíveis.",
+  "tooltip1": "Taxa de dependência de idosos",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O índice de dependência dos idosos é a razão entre o número de idosos dependentes (pessoas com 65 anos ou mais, geralmente inativas profissionalmente) e o número de pessoas em idade ativa (entre 15 e 64 anos). Um índice de dependência alto significa que as pessoas em idade ativa, e a economia como um todo, têm que suportar um fardo mais pesado para sustentar a população dependente.",
+  "textNote": "A taxa de dependência da população idosa é a proporção entre o número de idosos dependentes (pessoas com 65 anos ou mais, geralmente inativas profissionalmente) e o número de pessoas em idade ativa (entre 15 e 64 anos). Uma alta taxa de dependência significa que as pessoas em idade ativa, e a economia como um todo, têm que arcar com um ônus maior para sustentar a população dependente.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"
 }

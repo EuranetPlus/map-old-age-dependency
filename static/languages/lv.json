@@ -1,6 +1,6 @@
 {
   "heading": "Atkarības koeficients: Kāds ir ekonomiskais spiediens uz strādājošajiem iedzīvotājiem?",
-  "subheading": "Līdz 2023. gadam neaktīvo vecāka gadagājuma cilvēku skaita attiecība pret darbspējīgā vecuma iedzīvotāju skaitu bija 33,4%, kas ir par 2% vairāk nekā 2019. gadā.",
+  "subheading": "Līdz 2024. gadam neaktīvo vecāka gadagājuma cilvēku skaita attiecība pret darbspējīgā vecuma iedzīvotāju skaitu bija 33,9%, kas ir par 7,96% vairāk nekā 2019. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "Vecuma atkarības koeficients",
   "textSourceDescription": "Avots",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Piezīme",
   "textNote": "Vecuma atkarības koeficients ir attiecība starp apgādājamo vecāka gadagājuma cilvēku (65 gadus veci un vecāki, kuri parasti ir profesionāli neaktīvi) skaitu un darbspējīgā vecuma cilvēku (vecumā no 15 līdz 64 gadiem) skaitu. Augsts atkarības koeficients nozīmē, ka darbspējīgā vecuma cilvēkiem un ekonomikai kopumā ir jāuzņemas lielāks slogs, lai uzturētu apgādājamos iedzīvotājus.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

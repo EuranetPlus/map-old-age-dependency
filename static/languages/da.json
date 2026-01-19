@@ -1,6 +1,6 @@
 {
   "heading": "Forsørgelsesgrad: Hvad er det økonomiske pres på den arbejdende befolkning?",
-  "subheading": "I 2023 var forholdet mellem antallet af inaktive ældre og antallet af personer i den erhvervsaktive alder 33,4 %, en stigning på 2 % sammenlignet med 2019.",
+  "subheading": "I 2024 var forholdet mellem antallet af inaktive ældre og antallet af personer i den erhvervsaktive alder 33,9 %, en stigning på 7,96 % sammenlignet med 2019.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "Ældreforsørgelseskvoten",
   "textSourceDescription": "Kilde",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "Ældreforsørgelseskvoten er forholdet mellem antallet af forsørgede ældre (65 år og derover, som generelt er erhvervsmæssigt inaktive) og antallet af personer i den erhvervsaktive alder (mellem 15 og 64 år). En høj forsørgelseskvot betyder, at personer i den erhvervsaktive alder og økonomien som helhed skal bære en tungere byrde for at forsørge den forsørgede befolkning.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=da&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Klik for mere information"
 }

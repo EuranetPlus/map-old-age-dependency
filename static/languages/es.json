@@ -1,6 +1,6 @@
 {
   "heading": "Tasa de dependencia: ¿Cuál es la presión económica sobre la población trabajadora?",
-  "subheading": "En 2023, la relación entre el número de personas mayores inactivas y el número de personas en edad de trabajar fue del 33,4%, un aumento del 2% en comparación con 2019.",
+  "subheading": "En 2024, la relación entre el número de personas mayores inactivas y el número de personas en edad de trabajar fue del 33,9%, un aumento del 7,96% en comparación con 2019.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Tasa de dependencia de la vejez",
   "textSourceDescription": "Fuente",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "La tasa de dependencia de la vejez es la relación entre el número de personas mayores dependientes (mayores de 65 años, generalmente inactivas) y el número de personas en edad laboral (entre 15 y 64 años). Una tasa de dependencia elevada implica que las personas en edad laboral, y la economía en su conjunto, deben soportar una mayor carga para mantener a la población dependiente.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=es&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

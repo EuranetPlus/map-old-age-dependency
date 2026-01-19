@@ -1,6 +1,6 @@
 {
   "heading": "Försörjningskvot: Vilket är det ekonomiska trycket på den arbetande befolkningen?",
-  "subheading": "År 2023 var förhållandet mellan antalet inaktiva äldre och antalet personer i arbetsför ålder 33,4 %, en ökning med 2 % jämfört med 2019.",
+  "subheading": "År 2024 var förhållandet mellan antalet inaktiva äldre och antalet personer i arbetsför ålder 33,9 %, en ökning med 7,96 % jämfört med 2019.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "Försörjningskvot för äldre",
   "textSourceDescription": "Källa",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notera",
   "textNote": "Äldreförsörjningskvoten är förhållandet mellan antalet äldre personer som är beroende (65 år och äldre, som i allmänhet är yrkesmässigt inaktiva) och antalet personer i arbetsför ålder (mellan 15 och 64 år). En hög försörjningskvot innebär att personer i arbetsför ålder, och ekonomin som helhet, måste bära en tyngre börda för att försörja den beroende befolkningen.",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Klicka för mer information"
 }

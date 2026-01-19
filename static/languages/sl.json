@@ -1,6 +1,6 @@
 {
   "heading": "Koeficient odvisnosti: Kakšen je ekonomski pritisk na delovno aktivno prebivalstvo?",
-  "subheading": "Do leta 2023 je bilo razmerje med številom neaktivnih starejših in številom delovno sposobnih ljudi 33,4 %, kar je 2 % več kot leta 2019.",
+  "subheading": "Do leta 2024 je bilo razmerje med številom neaktivnih starejših in številom delovno sposobnih oseb 33,9 %, kar je 7,96 % več kot leta 2019.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "Razmerje med starostno odvisnostjo in starostno odvisnostjo",
   "textSourceDescription": "Vir",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Opomba",
   "textNote": "Koeficient starostne odvisnosti je razmerje med številom vzdrževanih starejših oseb (starih 65 let in več, ki so običajno poklicno neaktivni) in številom delovno aktivnih oseb (starih med 15 in 64 let). Visok koeficient odvisnosti pomeni, da morajo delovno aktivne osebe in gospodarstvo kot celota nositi večje breme za preživetje vzdrževanega prebivalstva.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

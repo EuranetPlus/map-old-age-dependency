@@ -1,6 +1,6 @@
 {
   "heading": "Proporzjon ta' dipendenza: X'inhi l-pressjoni ekonomika fuq il-popolazzjoni li taħdem?",
-  "subheading": "Sal-2023, il-proporzjon tal-għadd ta’ anzjani inattivi għall-għadd ta’ persuni fl-età tax-xogħol kien ta’ 33.4%, żieda ta’ 2% meta mqabbel mal-2019.",
+  "subheading": "Sal-2024, il-proporzjon tal-għadd ta’ anzjani inattivi għall-għadd ta’ persuni fl-età tax-xogħol kien ta’ 33.9%, żieda ta’ 7.96% meta mqabbel mal-2019.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "Proporzjon ta' dipendenza fuq l-età anzjana",
   "textSourceDescription": "Sors",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "Il-proporzjon ta’ dipendenza tax-xjuħija huwa l-proporzjon bejn l-għadd ta’ anzjani dipendenti (dawk ta’ 65 sena jew aktar, li ġeneralment huma professjonalment inattivi) u l-għadd ta’ nies fl-età tax-xogħol (ta’ bejn il-15 u l-64 sena). Proporzjon ta’ dipendenza għoli jfisser li n-nies fl-età tax-xogħol, u l-ekonomija kollha kemm hi, iridu jġorru piż akbar biex jappoġġjaw il-popolazzjoni dipendenti.",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

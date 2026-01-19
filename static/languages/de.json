@@ -1,13 +1,13 @@
 {
-  "heading": "Abhängigkeitsquote: Wie hoch ist der wirtschaftliche Druck auf die arbeitende Bevölkerung?",
-  "subheading": "Bis 2023 betrug das Verhältnis der Zahl der inaktiven älteren Menschen zur Zahl der Menschen im erwerbsfähigen Alter 33,4 %, ein Anstieg von 2 % gegenüber 2019.",
+  "heading": "Abhängigkeitsquote: Welchem wirtschaftlichen Druck steht die erwerbstätige Bevölkerung ausgesetzt?",
+  "subheading": "Bis 2024 betrug das Verhältnis der Anzahl inaktiver älterer Menschen zur Anzahl der Erwerbstätigen 33,9 %, ein Anstieg um 7,96 % gegenüber 2019.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "Altenquotient",
+  "tooltip1": "Altenabhängigkeitsquote",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Der Altenquotient ist das Verhältnis zwischen der Zahl der pflegebedürftigen älteren Menschen (65 Jahre und älter, die in der Regel beruflich nicht aktiv sind) und der Zahl der Menschen im erwerbsfähigen Alter (15 bis 64 Jahre). Ein hoher Altenquotient bedeutet, dass die Menschen im erwerbsfähigen Alter und die Wirtschaft insgesamt eine höhere Last zur Unterstützung der pflegebedürftigen Bevölkerung tragen müssen.",
-  "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textNote": "Die Altenabhängigkeitsquote ist das Verhältnis zwischen der Anzahl der pflegebedürftigen älteren Menschen (65 Jahre und älter, in der Regel beruflich nicht mehr aktiv) und der Anzahl der Erwerbstätigen (15 bis 64 Jahre). Eine hohe Altenabhängigkeitsquote bedeutet, dass die Erwerbstätigen und die Wirtschaft insgesamt einen größeren Teil der Last tragen müssen, um die pflegebedürftige Bevölkerung zu versorgen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

@@ -1,6 +1,6 @@
 {
   "heading": "Míra závislosti: Jaký je ekonomický tlak na pracující populaci?",
-  "subheading": "Do roku 2023 činil poměr počtu neaktivních starších osob k počtu osob v produktivním věku 33,4 %, což představuje nárůst o 2 % ve srovnání s rokem 2019.",
+  "subheading": "Do roku 2024 činil poměr počtu neaktivních starších osob k počtu osob v produktivním věku 33,9 %, což představuje nárůst o 7,96 % ve srovnání s rokem 2019.",
   "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "Poměr závislosti ve stáří",
   "textSourceDescription": "Zdroj",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Míra závislosti starších osob je poměr mezi počtem závislých starších osob (osoby ve věku 65 let a starší, které jsou obecně profesně neaktivní) a počtem osob v produktivním věku (ve věku 15 až 64 let). Vysoký poměr závislosti znamená, že osoby v produktivním věku a ekonomika jako celek musí nést větší zátěž, aby uživily závislé obyvatelstvo.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en&category=t_demo.t_demo_ind",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00198/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }
